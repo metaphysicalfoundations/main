@@ -54,6 +54,6 @@ What matters then is not merely the beliefs one holds, but whether one is genuin
 
 [^4]: In *Vivekacūḍāmaṇi* (verse 20), Ādi Śaṅkarācārya writes: *Brahma satyaṃ jagan mithyā.* A literal translation is roughly: “Brahman alone is real (unchanging and eternal); the world is not ultimately real (being transient and subject to change)”.
 
-[^5]: In *Bhagavad Gītā* (2.47) we have: *karmanyevādhikāraste mā phaleșu kadācana | mā karmaphalaheturbhūrmā te sango‘stuakarmaņi*. A literal translation is roughly: “You have the right to action alone, never to its fruits. Do not make the fruits of action your motive, and do not cling to inaction”.
+[^5]: In *Bhagavad Gītā* (2.47) we have: *karmanyevādhikāraste mā phaleșu kadācana &#124; mā karmaphalaheturbhūrmā te sango‘stuakarmaņi*. A literal translation is roughly: “You have the right to action alone, never to its fruits. Do not make the fruits of action your motive, and do not cling to inaction”.
 
 [^6]: Of course, as presented in the beginning of this essay, one may simply say, if our understanding of truth does not lead to a deeper sense of joy, it may be that our understanding of either truth or happiness remains incomplete. Note that happiness need not be understood as merely material comfort or the fulfillment of our existing desires. In that spirit, in *Analects* (6.11), Confucius praises his disciple Yan Hui: “With a single bowl of food and a single gourd of water, living in a humble lane—others could not bear such hardship, yet Hui did not lose his joy”.
